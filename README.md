@@ -29,5 +29,5 @@ To run the code, follow these steps:
 - Clone this repository.
 - Download the dataset from Kaggle and place it in the same directory as the code.
 - Install the required dependencies.
-- Open the Jupyter notebook clustering.ipynb.
+- Open the Jupyter notebook [clustering.ipynb](https://github.com/santiagoarevalo/clustering-spotify-songs-dataset/blob/94a4af0a9dfbb08123b807ed74acdbd3f75d56cd/clustering.ipynb)
 - Run the code cells in order.
